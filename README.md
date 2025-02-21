@@ -1,4 +1,4 @@
-# Conditional Bivariate Probability Function
+## Conditional Bivariate Probability Function
 
 This repository contains two scripts:
 
